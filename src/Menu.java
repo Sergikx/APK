@@ -155,7 +155,7 @@ public class Menu {
 		formDataExit.left = new FormAttachment(25,0);
 		formDataExit.right = new FormAttachment(75,0);
 		
-		Button buttonExit = new Button(shellMenu,SWT.PUSH);//кнопка Exit
+		Button buttonExit = new Button(shellMenu,SWT.PUSH);//кнопка ExiT
 		buttonExit.setFont(font2);
 		buttonExit.setText("E&xit");
 		buttonExit.setForeground(dark_red);
